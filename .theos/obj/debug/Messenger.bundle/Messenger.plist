@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>headerCellClass</key>
+			<string>MessengerHeader</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Enable LogOut From Messenger (: </string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>Messenger</string>
+			<key>key</key>
+			<string>k1</string>
+			<key>label</key>
+			<string>Enable LogOut</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Enable Full Screen Hide Status Bar</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>Messenger</string>
+			<key>icon</key>
+			<string>icon.png</string>
+			<key>key</key>
+			<string>k2</string>
+			<key>label</key>
+			<string>Full Screen</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Enable Older Layout</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>Messenger</string>
+			<key>icon</key>
+			<string>icon.png</string>
+			<key>key</key>
+			<string>k14</string>
+			<key>label</key>
+			<string>Old Layout</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Dark Keyboard</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>Messenger</string>
+			<key>icon</key>
+			<string>icon.png</string>
+			<key>key</key>
+			<string>k3</string>
+			<key>label</key>
+			<string>Black Keyboard</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Send Photos High Quality</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>Messenger</string>
+			<key>key</key>
+			<string>k4</string>
+			<key>label</key>
+			<string>Send HD Photos</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Disable I'm Typing </string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>Messenger</string>
+			<key>key</key>
+			<string>k9</string>
+			<key>label</key>
+			<string>Disable Typing</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Remove Banner invite to Messenger </string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>Messenger</string>
+			<key>key</key>
+			<string>k11</string>
+			<key>label</key>
+			<string>Disable invite to Messenger</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>disable Read Receipt and You can see the message without sending to your friend you are read the message  . And if you want remove Notification from the recent button remove Conversation</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>Messenger</string>
+			<key>key</key>
+			<string>k7</string>
+			<key>label</key>
+			<string>Disable Read Receipts</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Developer Settings</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>Messenger</string>
+			<key>key</key>
+			<string>k5</string>
+			<key>label</key>
+			<string>internal Settings</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>You can Send 999999 Photos</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>Messenger</string>
+			<key>key</key>
+			<string>k6</string>
+			<key>label</key>
+			<string>Unlimited Photos</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Messenger+ © 2016 2017 Mohammed Ghzayel</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>apply</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Save</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>credits</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Credits</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>Twitter</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>default</key>
+			<false/>
+			<key>icon</key>
+			<string>Twitter@2x.png</string>
+			<key>label</key>
+			<string>Follow me on twitter</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string> Messenger+</string>
+</dict>
+</plist>

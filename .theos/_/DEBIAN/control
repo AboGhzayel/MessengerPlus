@@ -1,0 +1,10 @@
+Package: com.aboghzayel.com
+Name: Messenger+
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Break FB Messenger!
+Maintainer: Mohammad Ghzayel
+Author: Mohammad Ghzayel
+Section: Tweaks
+Version: 1.3.4-1+debug
+Installed-Size: 332
